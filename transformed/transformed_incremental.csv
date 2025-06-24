@@ -1,0 +1,11 @@
+customer_name,product,quantity,unit_price,order_date,region,total_price
+Alice,Laptop,2,900.0,09 May 2024,Central,1800.0
+Heidi,Laptop,1,300.0,07 May 2024,Central,300.0
+Heidi,Laptop,1,600.0,04 May 2024,Central,600.0
+Heidi,Tablet,2,300.0,26 May 2024,Central,600.0
+Heidi,Tablet,2,600.0,21 May 2024,North,1200.0
+Heidi,Laptop,2,600.0,18 May 2024,Central,1200.0
+Heidi,Tablet,1,600.0,13 May 2024,Central,600.0
+Heidi,Laptop,2,600.0,11 May 2024,Central,1200.0
+Grace,Laptop,2,600.0,29 May 2024,Central,1200.0
+Heidi,Phone,2,900.0,24 May 2024,Central,1800.0

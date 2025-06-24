@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.sqlite
+last_extraction.txt
